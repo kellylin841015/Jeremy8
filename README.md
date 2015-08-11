@@ -1,6 +1,7 @@
 # Jeremy8
 
 textView1-輸入姓名(登陸confirm)
+
 textView2-檔案(主頁面檔案櫃裡面mylayout)
 textView3-檔案(主頁面檔案櫃裡面mylayout)
 textView4-公共房間名稱(大廳清單格式outsidelayout)
